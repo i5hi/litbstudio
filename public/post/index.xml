@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Light In The Blackhole</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>All rights reserved - 2021</copyright>
+    <copyright>Creative Commons</copyright>
     <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://syui.cf/hugo-theme-air/post/index.xml" rel="self" type="application/rss+xml" />
@@ -25,17 +25,6 @@ I can just write freely here.
 Bwijbawa is a very sweet heart
 Ishi&amp;rsquo;s Work
 This is little smaller title  This is a list I can make todo And i can also make list hehe  3x </description>
-    </item>
-    
-    <item>
-      <title>sample</title>
-      <link>https://syui.cf/hugo-theme-air/post/2017/01/01/test/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://syui.cf/hugo-theme-air/post/2017/01/01/test/</guid>
-      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
- Below you will find some of the most common and helpful pages from our documentation.
- https://gohugo.io/documentation/</description>
     </item>
     
   </channel>
