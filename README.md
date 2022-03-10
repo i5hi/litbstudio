@@ -1,5 +1,4 @@
 # LightInTheBlackhole
-## By Brijbala Vyas
 
 To create new entries, add a `.md file` in the `content/post` folder. 
 
