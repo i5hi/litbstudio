@@ -1,0 +1,32 @@
+BaseUrl= "https://syui.cf/hugo-theme-air/"
+LanguageCode= "en-US"
+Title= "Light In The Blackhole"
+paginate = 5
+DisqusShortname = ""
+Copyright = "Creative Commons"
+canonifyurls = true
+
+[author]
+  name = "ishi"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug"
+
+[params]
+  description = "Exploring the world through language"
+  cover = "images/litb.jpeg"
+  author = "brijbala.vyas"
+  authorlocation = ""
+  authorwebsite = "https://syui.cf/hugo-theme-air"
+  bio= "my bio"
+  logo = "images/litb.jpeg"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "syui"
+  twitterName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  mainSections = ["post"]
+
+custom_css = ["css/custom.css"]

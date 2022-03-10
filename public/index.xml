@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Light In The Blackhole</title>
+    <link>https://syui.cf/hugo-theme-air/</link>
+    <description>Recent content on Light In The Blackhole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2021</copyright>
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://syui.cf/hugo-theme-air/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Origins</title>
+      <link>https://syui.cf/hugo-theme-air/post/2021/09/14/origins/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://syui.cf/hugo-theme-air/post/2021/09/14/origins/</guid>
+      <description>This is big title This is normal paragraph stuff.
+I can just write freely here.
+ Wow. So easy.
+ echo &amp;quot;I love bwijbawa&amp;quot; Bwijbawa is best girl evar.
+Bwijbawa is a very sweet heart
+Ishi&amp;rsquo;s Work
+This is little smaller title  This is a list I can make todo And i can also make list hehe  3x </description>
+    </item>
+    
+    <item>
+      <title>sample</title>
+      <link>https://syui.cf/hugo-theme-air/post/2017/01/01/test/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://syui.cf/hugo-theme-air/post/2017/01/01/test/</guid>
+      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
+ Below you will find some of the most common and helpful pages from our documentation.
+ https://gohugo.io/documentation/</description>
+    </item>
+    
+  </channel>
+</rss>
